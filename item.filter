@@ -45,9 +45,9 @@ ItemDisplay[cm3 (TABSK33>0 AND ITEMSTAT96>0)]: %ORANGE%frw %PURPLE%Masteries Ski
 ItemDisplay[cm3 (TABSK34>0 AND ITEMSTAT96>0)]: %ORANGE%frw %PURPLE%Warcries Skiller %GRAY%[%ILVL%]
 
 //SKILL + LIFE
-ItemDisplay[cm3 (TABSK1>0 AND LIFE>34)]: %RED%Life %PURPLE%Bow Skiller %GRAY%[%ILVL%]
+ItemDisplay[cm3 (TABSK0>0 AND LIFE>34)]: %RED%Life %PURPLE%Bow Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 (TABSK2>0 AND LIFE>34)]: %RED%Life %PURPLE%Java Skiller %GRAY%[%ILVL%]
-ItemDisplay[cm3 (TABSK3>0 AND LIFE>34)]: %RED%Life %PURPLE%P&M Skiller %GRAY%[%ILVL%]
+ItemDisplay[cm3 (TABSK1>0 AND LIFE>34)]: %RED%Life %PURPLE%P&M Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 (TABSK8>0 AND LIFE>34)]: %RED%Life %PURPLE%Fire Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 (TABSK9>0 AND LIFE>34)]: %RED%Life %PURPLE%Light Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 (TABSK10>0 AND LIFE>34)]: %RED%Life %PURPLE%Cold Skiller %GRAY%[%ILVL%]
