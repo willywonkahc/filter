@@ -1,0 +1,17 @@
+// more info at http://pathofdiablo.com/wiki/index.php/Loot_Filtration
+
+//Identifcation Section(ID section)
+ItemDisplay[MAG ID cm3 TABSK8=1]:%PURPLE%Fire Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK10=1]:%PURPLE%Cold Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK17=1]:%PURPLE%PnB Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK24=1]:%PURPLE%Pcomb Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK48=1]:%PURPLE%Trap Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK42=1]:%PURPLE%Ele Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK41=1]:%PURPLE%SS Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK40=1]:%PURPLE%Dsum Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK18=1]:%PURPLE%Nsum Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK9=1]:%PURPLE%Lite Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK2=1]:%PURPLE%Java Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm3 TABSK0=1]:%PURPLE%Bow Skiller%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm1 LIFE>15]:%PURPLE%Life Small Charm%WHITE%[%ILVL%]
+ItemDisplay[MAG ID cm1 MANA>13]:%PURPLE%Mana Small Charm%WHITE%[%ILVL%]
