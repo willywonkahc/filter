@@ -86,10 +86,10 @@ ItemDisplay[cm3 (TABSK50>0 AND LIFE>34)]: %RED%Life %PURPLE%Martial Skiller %GRA
 //ItemDisplay[cm3 TABSK48>0]: %PURPLE%Trap Skiller %GRAY%[%ILVL%]
 
 //good charms VARIOUS
-ItemDisplay[cm3 (ITEMSTAT22>6 AND LIFE>0)]: %TAN%Max Dmg %RED%Life %BLUE%Grand Charm %GRAY%[%ILVL%]
+ItemDisplay[cm3 (ITEMSTAT22>6 AND LIFE>34)]: %TAN%Max Dmg %RED%Life %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (ITEMSTAT22>6 AND ITEMSTAT96>0)]: %TAN%Max Dmg %ORANGE%frw %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (ITEMSTAT22>6 AND ITEMSTAT99>0)]: %TAN%Max Dmg %ORANGE%FHR %BLUE%Grand Charm %GRAY%[%ILVL%]
-ItemDisplay[cm3 ITEMSTAT22>8]: %TAN%Max Dmg %BLUE%Grand Charm %GRAY%[%ILVL%]
+//ItemDisplay[cm3 ITEMSTAT22>8]: %TAN%Max Dmg %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (RES>7 AND LIFE>34)]: %PURPLE%ALL %WHITE%Res %RED%Life %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (RES>7 AND ITEMSTAT96>0)]: %PURPLE%ALL %WHITE%Res %ORANGE%frw %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (RES>7 AND ITEMSTAT99>0)]: %PURPLE%ALL %WHITE%Res %ORANGE%FHR %BLUE%Grand Charm %GRAY%[%ILVL%]
