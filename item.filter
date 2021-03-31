@@ -159,5 +159,6 @@ ItemDisplay[cm1 !UNI (ITEMSTAT45>9 AND ITEMSTAT80>5)]: %GREEN%Psn %WHITE%Res %GR
 //ItemDisplay[cm1 LIFE>16]: %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
 
 //hide all the shitty ones
+ItemDisplay[jew CLVL>18]:
 ItemDisplay[cm1 OR cm2 OR cm3) CLVL>18]:
 
