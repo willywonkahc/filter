@@ -160,4 +160,4 @@ ItemDisplay[cm1 !UNI (ITEMSTAT45>9 AND ITEMSTAT80>5)]: %GREEN%Psn %WHITE%Res %GR
 
 //hide all the shitty ones
 ItemDisplay[cm1 OR cm2 OR cm3) CLVL>18]:
-ItemDisplay[jew]:
+
