@@ -1,3 +1,7 @@
+//JAVS
+ItemDisplay[amf (TABSK2>3 AND ITEMSTAT68>29)]: %TAN%lancer %ORANGE%IAS %PURPLE%JAVELINS %GRAY%[%ILVL%]
+
+
 //JEWELS
 
 //IAS ED
@@ -159,5 +163,5 @@ ItemDisplay[cm1 !UNI (ITEMSTAT45>9 AND ITEMSTAT80>5)]: %GREEN%Psn %WHITE%Res %GR
 //ItemDisplay[cm1 LIFE>16]: %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
 
 //hide all the shitty ones
-ItemDisplay[cm1 OR cm2 OR cm3 OR jew]:
+ItemDisplay[cm1 OR cm2 OR cm3 OR jew OR amf]:
 
