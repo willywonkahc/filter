@@ -158,8 +158,8 @@ ItemDisplay[cm1 !UNI (ITEMSTAT45>9 AND ITEMSTAT80>5)]: %GREEN%Psn %WHITE%Res %GR
 //ItemDisplay[cm1 !UNI ITEMSTAT39>9]: %RED%Fire %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 !UNI ITEMSTAT41>9]: %YELLOW%Light %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 !UNI ITEMSTAT43>9]: %BLUE%Cold %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
-//ItemDisplay[cm1 !UNI ITEMSTAT45>22]: %GREEN%Psn %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
-//ItemDisplay[cm1 ITEMSTAT80>10]: %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
+ItemDisplay[cm1 !UNI ITEMSTAT45>22]: %GREEN%Psn %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
+ItemDisplay[cm1 ITEMSTAT80>10]: %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 LIFE>16]: %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
 
 //hide all the shitty ones
