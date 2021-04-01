@@ -159,6 +159,5 @@ ItemDisplay[cm1 ITEMSTAT80>10]: %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 LIFE>16]: %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
 
 //hide all the shitty ones
-ItemDisplay[jew]:
-ItemDisplay[cm1 OR cm2 OR cm3]:
+ItemDisplay[cm1 OR cm2 OR cm3 OR jew]:
 
