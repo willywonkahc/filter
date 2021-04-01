@@ -1,6 +1,7 @@
 //JAVS
-ItemDisplay[amf (TABSK2>0 AND ITEMSTAT68>29)]: %TAN%lancer %ORANGE%IAS %PURPLE%JAVELINS %GRAY%[%ILVL%]
-ItemDisplay[amf (TABSK2>3 AND ITEMSTAT68>29)]: %TAN%lancer %ORANGE%IAS %PURPLE%JAVELINS %GRAY%[%ILVL%]
+ItemDisplay[amf (TABSK2>3 AND ITEMSTAT93>29)]: %TAN%lancer %ORANGE%IAS %PURPLE%JAVELINS %GRAY%[%ILVL%]
+ItemDisplay[am5 (TABSK2>3 AND ITEMSTAT93>29)]: %TAN%lancer %ORANGE%IAS %PURPLE%JAVELINS %GRAY%[%ILVL%]
+
 
 
 //JEWELS
@@ -156,13 +157,17 @@ ItemDisplay[cm1 !UNI (ITEMSTAT39>9 AND ITEMSTAT80>5)]: %RED%Fire %WHITE%Res %GRE
 ItemDisplay[cm1 !UNI (ITEMSTAT41>9 AND ITEMSTAT80>5)]: %YELLOW%Light %WHITE%Res %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
 ItemDisplay[cm1 !UNI (ITEMSTAT43>9 AND ITEMSTAT80>5)]: %BLUE%Cold %WHITE%Res %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
 ItemDisplay[cm1 !UNI (ITEMSTAT45>9 AND ITEMSTAT80>5)]: %GREEN%Psn %WHITE%Res %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
+//mana life
+ItemDisplay[cm1 !UNI ITEMSTAT9>14 AND LIFE>19]: %GREEN%Psn %WHITE%Res %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
+//poison charms
+ItemDisplay[cm1 !UNI (ITEMSTAT57>174 AND LIFE>19)]: %GREEN%Psn %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
+ItemDisplay[cm1 !UNI ITEMSTAT57>450]: %GREEN%Psn Psn %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 !UNI ITEMSTAT39>9]: %RED%Fire %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 !UNI ITEMSTAT41>9]: %YELLOW%Light %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 !UNI ITEMSTAT43>9]: %BLUE%Cold %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
-ItemDisplay[cm1 !UNI ITEMSTAT45>22]: %GREEN%Psn %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
-ItemDisplay[cm1 ITEMSTAT80>10]: %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
+//ItemDisplay[cm1 !UNI ITEMSTAT45>22]: %GREEN%Psn %WHITE%Res %BLUE%Small Charm %GRAY%[%ILVL%]
+//ItemDisplay[cm1 ITEMSTAT80>10]: %GREEN%MF %BLUE%Small Charm %GRAY%[%ILVL%]
 //ItemDisplay[cm1 LIFE>16]: %RED%Life %BLUE%Small Charm %GRAY%[%ILVL%]
 
 //hide all the shitty ones
-ItemDisplay[cm1 OR cm2 OR cm3 OR jew OR amf]:
-
+ItemDisplay[cm1 OR cm2 OR cm3 OR jew OR amf OR am5]:
